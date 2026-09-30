@@ -1,1 +1,1 @@
-node and link form graph.
+그래프는 정의할 수 없다.
